@@ -23,6 +23,7 @@ class MakeTest extends TestCase
             ['BTC', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\BTC'],
             ['DASH', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\DASH'],
             ['DOGE', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\DOGE'],
+            ['DOGETEST', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\DOGETEST'],
             ['ETC', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\ETC'],
             ['ETH', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\ETH'],
             ['LTC', 'Merkeleon\PhpCryptocurrencyAddressValidation\Validation\LTC'],
